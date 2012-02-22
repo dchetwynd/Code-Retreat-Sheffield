@@ -1,0 +1,3 @@
+These are two attempts at Conway's Game of Life that I implemented in Python at the Sheffield Code Retreat on 03/12/2011. This was as part of the Global Day of Code Retreat (http://globalday.coderetreat.org/).
+
+The daleyedgameoflife.py attempt was done pairing with @eddsax and the daleyevagameoflife.py attempt was pairing with @b_seven_e.
